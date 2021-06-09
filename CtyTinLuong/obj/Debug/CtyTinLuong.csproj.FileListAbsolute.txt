@@ -1,1 +1,3 @@
 C:\Users\Administrator\Documents\GitHub\TinLuongMoi\CtyTinLuong\bin\Debug\CtyTinLuong.exe.config
+C:\Users\Administrator\Documents\GitHub\New folder\Thin\CtyTinLuong\bin\Debug\CtyTinLuong.exe.config
+C:\Users\Administrator\Documents\GitHub\New folder\Thin\CtyTinLuong\obj\Debug\CtyTinLuong.csprojResolveAssemblyReference.cache
